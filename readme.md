@@ -1,4 +1,4 @@
-# A API tutorial for studies
+# An API tutorial for studies
 
 this project is a tutorial from https://www.django-rest-framework.org/
 
